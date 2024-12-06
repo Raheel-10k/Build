@@ -1,0 +1,2 @@
+publickey="143dead60560634a57168ac7769a3e3b"
+privatekey="1a69d18f7ac3f4a4439c8dc96d2afd91dae11668"
