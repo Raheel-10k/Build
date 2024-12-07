@@ -1,7 +1,7 @@
 
 # Instinct App
 
-This repo consists of both the frontend and backend of the **"Instinct"** app. This app aims to revolutionize the way we socialize within institutions, providing the best platform for students and faculty to connect and discover who they share their prestigious campus with. Welcome to **Instinct**, where institutions meet instincts and lead to adventurous bonds.
+This repo consists of both the frontend and backend of the **"Instinct"** app. This app aims to revolutionize the way we socialize within institutions, providing the best platform for students and faculty to connect and discover who they share their prestigious campus with. Welcome to **Instinct**, where institutions meet instincts and lead to natural bonds.
 
 ## Getting Started
 
